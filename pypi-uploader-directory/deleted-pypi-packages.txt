@@ -1180,7 +1180,6 @@ ai-betfair
 ai-challenge
 ai-codesign
 ai-commit-and-readme
-ai-configurator
 ai-de-chengrenshi-gan-hutao-20221205
 ai-de-gaobieshi-gan-hutao-20221211
 ai-de-jinxing-shi-bengu-you-xizi-20140814
@@ -2821,7 +2820,6 @@ anshuman
 anshumantest
 ansi-beautifier
 ansi-codes
-ansi-terminal
 ansi-text2
 ansible-2-7-xuexi-shouce
 ansible-2-7-xuexi-shouce-jifan
@@ -3470,7 +3468,6 @@ apndas
 apns-dummy
 apocalypse
 apoclaim
-apollo-client-python
 apollo-py-core
 apollo-py-numpy
 apollo-py-numpy-core
@@ -8741,7 +8738,6 @@ buaa-open-source-22371550-test-package1
 buaa-open-source-22371550-test-package2
 buaaers
 buan-de-tonghua-entianlu-20111121
-bub
 bubbelz45634735673568585874584584584784587478548
 bubufy
 buchuiniu-qimen-dunjia-jiangyi-ver6-vol1
@@ -8857,7 +8853,6 @@ bumian-de-zhenzhu-shitianyiliang-20110313
 bumian-mowang-yu-keluonuo-de-shijie-mingyue-qianli-20150609
 bumian-mowang-yu-keluonuo-de-shijie-mingyue-qianli-20190827
 bummer
-bumpster
 bundcli
 bundle-cpp
 buneng-shiyong-gongji-mofa-de-mofashi-juanye-maozi-20140920
@@ -9329,7 +9324,6 @@ calculator-fortune
 calculator-framework
 calculator-jihen
 calculator-lzh
-calculator-main
 calculator-one
 calculator-package-arv
 calculator-package-emilijab
@@ -11622,7 +11616,6 @@ chopper-sangggho
 chordate
 chordest
 chordpro
-chordspy
 chorebook
 choriweb
 choroid
@@ -12044,7 +12037,6 @@ classtrucks-google-ads
 classutil-scraper
 classy-json-cython
 classywow
-claude-monitor
 claude-pyrojects-cli
 claude2-ai
 claudeai-eng
@@ -23566,7 +23558,6 @@ fairy-tale-huanxiang-biannianshi-bu-dong-chayanguanse-de-yi-shijie-shenghuo-zhi-
 fairys
 faiss-centos
 faiss-gp
-faiz
 faizaalam
 fajnsvaca
 fajr
@@ -24430,7 +24421,6 @@ file-pile
 file-processor-sdk
 file-prompt-cli
 file-readbackwards
-file-renamer
 file-saver
 file-server
 file-size-package
@@ -24703,7 +24693,6 @@ firstimpression-beta
 firstimpression-test
 firstmal
 firstmal12
-firstock
 firstpctpypi
 firstpkgazibit
 firstprop
@@ -33103,7 +33092,6 @@ gv100ad-python
 gvalidation
 gvd
 gveent
-gvp
 gw-additional
 gw-age-tools
 gw-algorithm
@@ -33390,7 +33378,6 @@ halalspot
 halaman
 halc
 halcon-controller
-hale
 half-geo
 halfbricksol
 halfdan
@@ -34158,7 +34145,6 @@ hexcoder
 hexcolured
 hexe
 hexedit
-hexgen
 hexie-yiteng-jihua-20170208
 hexlet-code-py-prj-1
 hexlet-code1
@@ -36980,7 +36966,6 @@ instarequests
 instasamka
 instascraper
 instasrc
-instaui-arco
 instruct-lab
 instruction
 instructnerf2nerf
@@ -37335,7 +37320,6 @@ ipaddres
 ipaddress-freebsd
 ipadress
 ipahttp
-ipapp
 ipassociationspythonnovaclientext
 ipay-python
 ipboard
@@ -50233,7 +50217,6 @@ nepse-price-history
 neptune-cli
 neptune-lib
 neptune-python-utils
-neptune-query
 neptune-query-mcp-server
 neptune-validator
 nequi
@@ -51576,7 +51559,6 @@ notmaliciousproj
 notmaplib
 notoken887
 notsogood
-notspam
 notwordle-oden
 notya
 nougat-op
@@ -51771,7 +51753,6 @@ nulled2024lol2
 nulled2024lol2023
 nullptr-btc-address-validator
 nulltk-nhammond129
-nullzbqhyr
 num
 num-json
 num-primos
@@ -52327,7 +52308,6 @@ odoo-addon-muk-rest
 odoo-addon-muk-web-list
 odoo-addon-muk-web-theme
 odoo-addon-muk-webhooks
-odoo-addons-sygel-technology-sy-account-analytic
 odoo-addons-sygel-technology-sy-account-budgeting
 odoo-rest-api-library
 odoo-selenium-httpcase
@@ -59721,7 +59701,6 @@ pybubblebox
 pybuilder-completions
 pybullet-configurable
 pybumper
-pyburg-pkg-peresan
 pycache-pycparser
 pycal123
 pycalc7
@@ -61041,7 +61020,6 @@ pypersianprint
 pypersonalizedutilitykits
 pypertext
 pyperties
-pypewriter
 pypgexec
 pypgped
 pypgtable
@@ -61241,7 +61219,6 @@ pyrebaselite
 pyrecipepuppy-crinela
 pyrecruit
 pyredex
-pyredsys
 pyregression-emilopez
 pyrejoke
 pyreleases
@@ -69705,7 +69682,6 @@ saucerest
 saumyapythonlog
 saunagus
 saunasub
-sausage
 sausage-man-mod-apk-unlimited-money
 savadata
 savannaclient
@@ -69960,7 +69936,6 @@ sciki-learn
 scikiit-learn
 scikit
 scikit-a
-scikit-ai
 scikit-build-example-ugrnn
 scikit-config
 scikit-daisy
