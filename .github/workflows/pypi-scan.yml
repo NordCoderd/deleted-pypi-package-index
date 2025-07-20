@@ -1,0 +1,36 @@
+name: PyPI Scanner
+
+on:
+  schedule:
+    - cron: '0 */12 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    environment: local
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install requirements
+        run: python -m pip install --upgrade pip requests
+
+      - name: Run PyPI scanner
+        run: python scripts/scan_pypi.py
+
+      - name: Commit and push updated output
+        if: success()                     # run only when previous steps succeed
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "ci: update output logs [skip ci]"
+          add_options: "-A pypi-uploader-directory"
+          file_pattern: pypi-uploader-directory/*
