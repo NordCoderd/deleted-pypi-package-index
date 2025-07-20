@@ -1,6 +1,6 @@
 # Deleted & Revived PyPI Package Indexes
 
-This project contains data about deleted and revived package names from PyPI.org and updates twice daily.
+This project contains data about deleted and revived package names from PyPI.org and updates on a daily schedule.
 
 Initial data about deleted packages was received by analyzing historical data on [clickpy](https://clickpy.clickhouse.com/) and the current state of PyPI.org. Data about deleted packages before 21 July 2025 could have false positives.  
 Read more about the methodology of retrieving these names in the article: [Revival Hijacking: How Deleted PyPI Packages Become Threats](https://protsenko.dev/2025/07/21/revival-hijacking-how-deleted-pypi-packages-become-threats/)
