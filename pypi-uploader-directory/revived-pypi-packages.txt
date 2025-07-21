@@ -23,3 +23,5 @@ pypewriter
 pyredsys
 sausage
 scikit-ai
+mujoco-viewer
+sentry-telegram-plugin
