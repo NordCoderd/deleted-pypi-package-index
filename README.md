@@ -10,6 +10,7 @@ Read more about the methodology of retrieving these names in the article: [Reviv
 1. [latest-pypi-state.txt](pypi-uploader-directory/latest-pypi-state.txt) contains the list of currently registered projects.
 2. [deleted-pypi-packages.txt](pypi-uploader-directory/deleted-pypi-packages.txt) contains the list of deleted packages received via analysis of the current state of PyPI.org and the previous one.
 3. [revived-pypi-packages.txt](pypi-uploader-directory/revived-pypi-packages.txt) contains the list of revived packages. It could be a signal of a [revival-hijacking](https://protsenko.dev/2025/07/21/revival-hijacking-how-deleted-pypi-packages-become-threats/) attack or legal cases.
+4. [deleted-pypi-packages.csv](pypi-uploader-directory/deleted-pypi-packages.csv) and [revived-pypi-packages.csv](pypi-uploader-directory/revived-pypi-packages.csv) used for analytical purposes and contain date of the event. Data accumulated from 22 July 2025.
 
 ## How to Use
 
