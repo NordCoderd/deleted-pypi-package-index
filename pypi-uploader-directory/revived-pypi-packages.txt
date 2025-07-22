@@ -25,3 +25,5 @@ sausage
 scikit-ai
 mujoco-viewer
 sentry-telegram-plugin
+chinus-tools
+pants-wheel

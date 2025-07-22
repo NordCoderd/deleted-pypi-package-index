@@ -305,6 +305,7 @@
 9781400873142-download-pdf
 98ce1b5f404a2dfa601423fb0f12c09b98ce1b5f404a2dfa601423fb0f12c09b
 991fe745
+AgentApi-cn
 Hondana
 Interplanetary-Invaders
 Luck-Room-v1
@@ -12890,7 +12891,6 @@ chino-io-scriba
 chintest
 chinu9653s-tool
 chinus
-chinus-tools
 chip-8
 chip-ai
 chip8
@@ -21955,6 +21955,7 @@ donhappy
 donlockre
 donnedz
 donorperfect-labs
+donotinstallthisistest6
 donran
 dons
 dont-ask-me
@@ -22555,6 +22556,7 @@ drush
 drutes
 drvaroz-scoi-lab3-json-xml-serializer
 drvman
+drw
 drweide-jiaoyu-baodian-201703-08
 drweide-jiaoyu-baodian-201709-201803
 drxiv
@@ -25897,6 +25899,7 @@ examdewdwple-relay-async123
 exammmple-tut
 examon-core
 examour
+example-SE-APC
 example-add-invent-module
 example-add-package
 example-ahmed-malek
@@ -29368,6 +29371,7 @@ fpp-analysis-tools
 fpress
 fps-clock
 fps-tracker
+fps_kernel_subprocess
 fpsboost
 fpsdokgjihdsnvmophirdhgnm09384534ujklfng89403jit3n
 fpsdokgjihdsnvmophirdhgnm09445384534ujklfng89403jit3n
@@ -49065,6 +49069,7 @@ linear-transformations
 lineargebra-wbr
 linearregressionbydina
 linearregressionbydinaftc
+lineartest
 lineartools
 linearucb
 linebot
@@ -50232,6 +50237,7 @@ loop-destroyer-mattyonweb
 loop-nest
 looper-ssr
 loopiadnssync
+looplm
 loopnest
 loopsite
 loopstick
@@ -51580,6 +51586,7 @@ matematykab
 matemsquare
 material-class
 material-mkdocs
+material-va-lighthouse
 material-zui
 materialnessz
 materialsdb
@@ -52120,6 +52127,7 @@ mdswrapper
 mdt-schachtler
 mdtablegen-xelphene
 mdtex2html-polarwinkel
+mdtl
 mdu-listeria
 mdvazeerhello2
 mdx-wikilinked-plus
@@ -83439,6 +83447,7 @@ simpllejson
 simplogger
 simplox
 simplsysis
+simplx
 simply-theme-formatcom
 simplyai
 simplybk
@@ -94668,6 +94677,7 @@ upftojson
 upggrade-requests
 upgma
 upgrade-colored
+upgrade-db-py
 upgrade-httpx
 upgrade-requestss
 upgrade-requestt
@@ -97533,6 +97543,7 @@ web3wallet
 web3x
 web3yrpcs
 web5
+webagents
 webapp-1
 webapp-etc
 webapp2-extras
@@ -98210,6 +98221,7 @@ wiimote-hacks
 wiituka
 wijiye2933
 wikenso
+wiki-base
 wiki-client
 wiki-client-test
 wiki-filler
@@ -103969,17 +103981,3 @@ zzspider
 zzspiderr
 zzztest
 zzzzls-spider
-donotinstallthisistest6
-material-va-lighthouse
-example-SE-APC
-lineartest
-looplm
-mdtl
-simplx
-webagents
-wiki-base
-upgrade-db-py
-AgentApi-cn
-drw
-fps_kernel_subprocess
-pants-wheel
