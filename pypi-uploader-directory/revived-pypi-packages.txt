@@ -28,3 +28,4 @@ sentry-telegram-plugin
 chinus-tools
 pants-wheel
 xtext
+sphinx-autodoc
