@@ -103981,3 +103981,5 @@ zzspider
 zzspiderr
 zzztest
 zzzzls-spider
+cosmos-wormhole
+crawl-toolkit
