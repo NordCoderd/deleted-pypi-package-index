@@ -104013,3 +104013,7 @@ Sider-CAPTCHA-Solver
 cosmotech-acceleration-library
 inv-agent
 upgrade-db
+agentx-py
+akmam-django-app-creator
+django-basic-app
+melodie-app-django-creator-smart
