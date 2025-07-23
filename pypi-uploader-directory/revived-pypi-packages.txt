@@ -29,3 +29,4 @@ chinus-tools
 pants-wheel
 xtext
 sphinx-autodoc
+vocalizr

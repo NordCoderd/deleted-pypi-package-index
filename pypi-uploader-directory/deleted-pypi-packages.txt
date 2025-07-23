@@ -67707,6 +67707,8 @@ pycmdlinehistory
 pycnet
 pycnet-devkit
 pycnp
+pycoatl
+pycoatl-kernel
 pycocotols
 pycocotools-mxpi
 pycocotools-wrapper
@@ -104000,6 +104002,3 @@ zzspider
 zzspiderr
 zzztest
 zzzzls-spider
-pycoatl
-pycoatl-kernel
-vocalizr
