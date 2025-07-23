@@ -30,3 +30,4 @@ pants-wheel
 xtext
 sphinx-autodoc
 vocalizr
+ghostmark

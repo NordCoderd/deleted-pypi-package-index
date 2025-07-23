@@ -314,6 +314,7 @@ MatrixDemos
 NERV-pyWall
 NetDecom
 PyPubSub
+PyStitch
 PyStore
 ScreenX10sion
 WIOpy
@@ -14674,6 +14675,7 @@ comforting-skin-full-movie-download
 comfyui-node-pkg
 comfyui-node-test
 comic-organizer
+comicboter
 comicpon
 comics-archiver
 comicsapp
@@ -35068,7 +35070,6 @@ ghostbox
 ghostcrew-metasploit
 ghostdemo
 ghostmapper
-ghostmark
 ghostops
 ghostpop
 ghostpy
@@ -49732,6 +49733,7 @@ ll2
 ll3
 llama-cpp-openai
 llama-extract
+llama-factory-main-test
 llama-index-node-parser-relational-dashscope
 llama-inference
 llama-model
@@ -61881,6 +61883,7 @@ parseapachelog
 parsecsv
 parsed
 parsedataset
+parsedatasets
 parsedvd
 parselib
 parsemafile
@@ -104002,7 +104005,3 @@ zzspider
 zzspiderr
 zzztest
 zzzzls-spider
-PyStitch
-comicboter
-llama-factory-main-test
-parsedatasets
