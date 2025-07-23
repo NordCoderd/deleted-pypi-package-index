@@ -104000,3 +104000,6 @@ zzspider
 zzspiderr
 zzztest
 zzzzls-spider
+pycoatl
+pycoatl-kernel
+vocalizr
