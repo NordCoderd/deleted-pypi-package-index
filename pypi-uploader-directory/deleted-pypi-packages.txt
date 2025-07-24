@@ -307,16 +307,20 @@
 991fe745
 AgentApi-cn
 ConPort-mcp
+DoctorCheck
 Hondana
 Interplanetary-Invaders
+KeithMedicale
 Luck-Room-v1
 MatrixDemos
+MedicaleFormulaire
 NERV-pyWall
 NetDecom
 PyPubSub
 PyStitch
 PyStore
 ScreenX10sion
+Sider-CAPTCHA-Solver
 WIOpy
 a-bug-a-bear-and-a-boy-pdf-download
 a-det
@@ -1230,6 +1234,7 @@ agents-experimental
 agentspy
 agentstorm-lib
 agenttestdata
+agentx-py
 agentzero
 agera-wiki-zhongwenban-v1-0
 aggadh
@@ -1978,6 +1983,7 @@ akkiprint
 akkord
 akksnna
 akksnna1
+akmam-django-app-creator
 aknren
 ako-ziskat-free-v-bucks-v-5454
 akobo
@@ -4846,6 +4852,7 @@ ast-plus
 ast-talk
 ast-utils
 ast3
+asta-summarizer-service
 astar-path-finder-js
 astaral
 astaral1
@@ -15610,6 +15617,7 @@ cosmian-lib
 cosmocatalog
 cosmos-wormhole
 cosmosnlp
+cosmotech-acceleration-library
 cosmpy-api
 cosnt-cython-lib
 cosoquehacecosas
@@ -20195,6 +20203,7 @@ django-axios
 django-bank-details
 django-base-ds
 django-base-url
+django-basic-app
 django-beeton
 django-bethany-components
 django-better-adminarrayfield
@@ -41774,6 +41783,7 @@ intvalpy2
 intver
 intx
 inumet
+inv-agent
 inv-core
 inv-utils
 invariant
@@ -51078,6 +51088,7 @@ malcube
 maldav
 male-wakeup-wiki
 maleatesz
+malestrom
 malicious
 malicious-package-for-demo
 malicious-package-for-yt-demo
@@ -52379,6 +52390,7 @@ melissacloudapi
 melizlab-tools
 melke
 melm
+melodie-app-django-creator-smart
 melody-web
 melodyc2e-2016-201905
 melodyc2e-201906-2021
@@ -60858,6 +60870,7 @@ orthophosphoricz
 orthopterologicalz
 orthotoluicz
 orthotropismz
+orthoxml
 ortodoxos
 ortools-puzzle-solvers
 ortskurve
@@ -80106,7 +80119,6 @@ secure-me
 secure-otp-gen
 secure-password-gen
 secure-password-generator-ikac
-secure-python
 secure-socket-chat
 secure-transfer-protocol
 secure-zone
@@ -94700,6 +94712,7 @@ upftojson
 upggrade-requests
 upgma
 upgrade-colored
+upgrade-db
 upgrade-db-py
 upgrade-httpx
 upgrade-requestss
@@ -104005,17 +104018,3 @@ zzspider
 zzspiderr
 zzztest
 zzzzls-spider
-malestrom
-DoctorCheck
-KeithMedicale
-MedicaleFormulaire
-Sider-CAPTCHA-Solver
-cosmotech-acceleration-library
-inv-agent
-upgrade-db
-agentx-py
-akmam-django-app-creator
-django-basic-app
-melodie-app-django-creator-smart
-orthoxml
-asta-summarizer-service

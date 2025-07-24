@@ -31,3 +31,4 @@ xtext
 sphinx-autodoc
 vocalizr
 ghostmark
+secure-python
