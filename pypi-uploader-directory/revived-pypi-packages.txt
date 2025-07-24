@@ -32,3 +32,4 @@ sphinx-autodoc
 vocalizr
 ghostmark
 secure-python
+crawl-toolkit

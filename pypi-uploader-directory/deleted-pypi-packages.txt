@@ -309,6 +309,7 @@ AgentApi-cn
 ConPort-mcp
 DoctorCheck
 Hondana
+HydrogenLib-Next
 Interplanetary-Invaders
 KeithMedicale
 Luck-Room-v1
@@ -1167,6 +1168,7 @@ afs-api-worker
 afs-autotests
 afs-constants
 afs-extractor
+afs-py
 afs-pytest-plugin
 afsearch
 after
@@ -15941,7 +15943,6 @@ crateman
 crawfishedz
 crawl-requests
 crawl-tool-for-spider
-crawl-toolkit
 crawldo
 crawler-ccw
 crawler-cluster
@@ -16356,6 +16357,8 @@ cs-multipicking-simulator
 cs-online-2-english-version-download
 cs-portable-android-download
 cs-shopper-ops-projects
+cs.dateutils
+cs.py.func
 cs1-todomvc
 cs107-pp8-package
 cs107package
@@ -46370,6 +46373,7 @@ ksqlite
 ksr-example-package
 ksrtest
 kss-python
+kst-ai
 kst-package
 kst-simple-log
 kstat
@@ -69821,6 +69825,7 @@ pyspark-utils-agarg
 pysparkasyncactions
 pysparkdist-explore
 pysparkhyperloglog
+pysparkmlclustering
 pysparkutilities
 pyspeexdsp
 pyspi-lib
@@ -74500,6 +74505,7 @@ repunch
 reputation
 repyle
 repyw
+req-ase
 req-est
 req-flask
 req-matplotlib
@@ -93556,6 +93562,7 @@ twin-crypter
 twin-peaks-torrent-download
 twinesg
 twinetut
+twinex
 twinfield
 twinkly-client-dr1rrb
 twinmaps
@@ -104018,11 +104025,3 @@ zzspider
 zzspiderr
 zzztest
 zzzzls-spider
-afs-py
-cs.dateutils
-cs.py.func
-kst-ai
-pysparkmlclustering
-HydrogenLib-Next
-req-ase
-twinex
