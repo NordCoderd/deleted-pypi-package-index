@@ -34,3 +34,4 @@ ghostmark
 secure-python
 crawl-toolkit
 qhash
+djprod
