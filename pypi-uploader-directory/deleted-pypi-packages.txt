@@ -104029,3 +104029,4 @@ PyOdataEdmModel
 bs-common-fastapi
 bs-common-fastapi-mongodb
 mcp-server-yunxiao
+PySpiro
