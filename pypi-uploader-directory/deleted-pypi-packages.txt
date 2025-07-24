@@ -317,7 +317,9 @@ MatrixDemos
 MedicaleFormulaire
 NERV-pyWall
 NetDecom
+PyOdataEdmModel
 PyPubSub
+PySpiro
 PyStitch
 PyStore
 ScreenX10sion
@@ -9603,6 +9605,8 @@ brye44
 brzcoding
 bs-aim07-ex1
 bs-cli
+bs-common-fastapi
+bs-common-fastapi-mongodb
 bs-cupid-try
 bs-dev15-ex1
 bs-python-utils
@@ -52028,6 +52032,7 @@ mcp-server-snowflake
 mcp-server-test
 mcp-server-test123
 mcp-server-uv-pkg
+mcp-server-yunxiao
 mcp-server-zhxg-search
 mcp-ssh-frr
 mcp-tapd
@@ -71893,7 +71898,6 @@ qgofer-cli
 qgraf-deref
 qgram
 qguifi
-qhash
 qhonuskan
 qhttpd
 qhwk-python-manilaclient
@@ -104025,8 +104029,3 @@ zzspider
 zzspiderr
 zzztest
 zzzzls-spider
-PyOdataEdmModel
-bs-common-fastapi
-bs-common-fastapi-mongodb
-mcp-server-yunxiao
-PySpiro
