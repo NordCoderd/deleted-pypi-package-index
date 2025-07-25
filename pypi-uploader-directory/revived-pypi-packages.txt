@@ -35,3 +35,4 @@ secure-python
 crawl-toolkit
 qhash
 djprod
+pygelbooru
