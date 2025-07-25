@@ -17185,7 +17185,6 @@ cyuyan-chengxu-sheji-wenti-jieda-heshili-jiexi-fangfa
 cyuyan-jiekou-yushixian
 cz
 cz-commitizen-hacknplan
-cz-conventional-jira
 cz-gitmoji
 cz-gitmoji-commits
 cz-legacy

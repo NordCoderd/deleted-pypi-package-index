@@ -36,3 +36,4 @@ crawl-toolkit
 qhash
 djprod
 pygelbooru
+cz-conventional-jira
