@@ -104049,3 +104049,13 @@ skyledge-incontrol-sdk
 SpiderKo
 graphid-db
 simplepy
+DIY-NLA
+mfd-testing
+mp-scrape-export-csv
+mp-scrape-export-sqlite
+mp-scrape-filter
+mp-scrape-source-bundestag
+mp-scrape-source-euparl
+mp-scrape-source-nrw
+skrbcr-casa-scripts
+yzm-mcp-txt-from-url
