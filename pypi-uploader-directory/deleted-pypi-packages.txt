@@ -104046,3 +104046,6 @@ oarc-utils
 pdf2tex
 skyledge-api-sdk
 skyledge-incontrol-sdk
+SpiderKo
+graphid-db
+simplepy
