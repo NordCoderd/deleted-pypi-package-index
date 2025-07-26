@@ -104078,3 +104078,5 @@ failure-detector
 jesus
 numpy-ros
 prof-qx
+django-form-util
+foundry-jupyter-extension
