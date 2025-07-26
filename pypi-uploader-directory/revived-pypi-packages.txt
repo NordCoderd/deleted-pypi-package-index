@@ -37,3 +37,5 @@ qhash
 djprod
 pygelbooru
 cz-conventional-jira
+korg
+openprotein-python
