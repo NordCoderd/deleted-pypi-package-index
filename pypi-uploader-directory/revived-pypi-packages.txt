@@ -47,3 +47,4 @@ freeglut
 gcid
 libprotobuf
 pynormalize
+qelm
