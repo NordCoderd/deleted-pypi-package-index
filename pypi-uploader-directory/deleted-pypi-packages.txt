@@ -104092,3 +104092,4 @@ Shalinee-pattern-package
 beltonapi
 boot-dummy
 pynormalize
+langchain-noctis
