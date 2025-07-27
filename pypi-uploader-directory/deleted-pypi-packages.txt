@@ -26813,7 +26813,6 @@ faggruppe
 faguo-yiliao-jingyou-baodian
 fai-pep
 failed
-fails
 failure-detector
 failures-handler-print
 faimily-t-ddd-core
@@ -33308,7 +33307,6 @@ freedup
 freegame
 freegamse
 freegeoip
-freeglut
 freej
 freelabs
 freelanceapi

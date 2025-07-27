@@ -42,3 +42,5 @@ openprotein-python
 puzzleandy
 async_garlandtools
 xmodules
+fails
+freeglut
