@@ -44,3 +44,6 @@ async_garlandtools
 xmodules
 fails
 freeglut
+gcid
+libprotobuf
+pynormalize
