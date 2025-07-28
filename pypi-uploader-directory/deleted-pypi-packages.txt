@@ -104098,3 +104098,4 @@ platform-utils
 sound-lib
 testingmytestproj
 parse-slice
+pydevplus
