@@ -71897,7 +71897,6 @@ qb-proof-of-concept
 qb2
 qb2-core
 qbe
-qbench
 qbfetcher
 qblang
 qbot
