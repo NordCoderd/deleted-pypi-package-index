@@ -58008,7 +58008,6 @@ nonebot-plugin-crazy-thursday
 nonebot-plugin-cuber
 nonebot-plugin-ddcheck
 nonebot-plugin-ddns
-nonebot-plugin-easy-translate
 nonebot-plugin-emojimix
 nonebot-plugin-eop-ai
 nonebot-plugin-eve-tool
