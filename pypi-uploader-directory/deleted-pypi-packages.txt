@@ -104110,3 +104110,6 @@ py-cppstd
 py-package-test-kh-notAB
 st-contextmap-cs
 supersafecalc
+chatscope
+hiphive
+pydot-graph
