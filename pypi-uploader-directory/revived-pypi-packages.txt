@@ -48,3 +48,4 @@ gcid
 libprotobuf
 pynormalize
 qelm
+psyflow-mcp
