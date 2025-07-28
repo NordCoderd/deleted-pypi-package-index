@@ -29431,7 +29431,6 @@ fpocuq
 fpp-analysis-tools
 fpress
 fps-clock
-fps-kernel-web-worker
 fps-tracker
 fps_kernel_subprocess
 fpsboost
