@@ -78552,7 +78552,6 @@ runz
 ruojiaoyouqi-tongxue-ruoshi-jiaose-youqijun-wujiu-youshu-20210822
 ruojiaoyouqi-tongxue-ruoshi-jiaose-youqijun-wujiu-youshu-20221024
 rupu
-ruru
 rus-python
 rusefi
 rush-db
