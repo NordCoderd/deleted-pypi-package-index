@@ -74,3 +74,4 @@ txl-remote-terminals
 txl-terminal
 txl-text-editor
 txl-widgets
+basistheoryclient
