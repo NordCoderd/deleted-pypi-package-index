@@ -52,3 +52,4 @@ psyflow-mcp
 fps-kernel-web-worker
 nonebot-plugin-easy-translate
 qbench
+hyperliquid-mcp

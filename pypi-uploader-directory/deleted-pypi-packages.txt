@@ -12621,6 +12621,7 @@ chatmate
 chatrello
 chatroom
 chatroom-py
+chatscope
 chatsonic-py
 chatter-ai
 chatter-reader
@@ -13218,6 +13219,7 @@ cidades
 cide
 cidercellar
 cidr
+cidr-man
 cidtrial
 cielo
 cientifico
@@ -29399,6 +29401,7 @@ fourm
 fournier
 foursquare-apiv2
 foursquare2
+foursys-auth
 fourth-dimension
 fov
 fovehicle
@@ -38579,6 +38582,7 @@ hipatia
 hipay
 hiperz
 hipgpg
+hiphive
 hipid
 hipkgabc
 hipo-map
@@ -40136,7 +40140,6 @@ hyperform
 hypergpt-sdk
 hyperialum
 hyperleveldb
-hyperliquid-mcp
 hyperliquid-mcp-server
 hypermodern-python-progress
 hypermodern-python-smcl
@@ -62730,6 +62733,7 @@ personality-insights
 personalize-sam
 personlib-person
 personmatchmodule
+personnel_matching_data_process_algo_test
 persoweb
 perspective-api-wrapper
 perspective-api-wrapper-python
@@ -66488,6 +66492,7 @@ py-cotrd
 py-cowrd
 py-cozd
 py-cpord
+py-cppstd
 py-cprd
 py-cpucandy
 py-cpucandyultra
@@ -66958,6 +66963,7 @@ py-osintultraad
 py-osintvirtualgui
 py-osintvirtualload
 py-osintvisa
+py-package-test-kh-notAB
 py-pagination
 py-palang
 py-partner-api
@@ -68110,6 +68116,7 @@ pydonuts
 pydoodle-with-proxy
 pydoof-core
 pydos2
+pydot-graph
 pydotng
 pydouz
 pydpapi
@@ -86132,6 +86139,7 @@ st-audio-recorder
 st-card-alert
 st-card-component-10
 st-card-selectable
+st-contextmap-cs
 st-draggable-list
 st-event-selectioninterface
 st-flexible-status-elements
@@ -87298,6 +87306,7 @@ superrbasiccalculator
 superre
 superreplace
 supers2
+supersafecalc
 supersaintlyz
 superseamanz
 superseeker-pipeline
@@ -104103,13 +104112,3 @@ zzspider
 zzspiderr
 zzztest
 zzzzls-spider
-cidr-man
-personnel_matching_data_process_algo_test
-foursys-auth
-py-cppstd
-py-package-test-kh-notAB
-st-contextmap-cs
-supersafecalc
-chatscope
-hiphive
-pydot-graph
