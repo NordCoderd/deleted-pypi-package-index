@@ -104125,3 +104125,9 @@ zzspider
 zzspiderr
 zzztest
 zzzzls-spider
+canadian-address-parser
+infusedb-py
+iso-dl
+loolclitools
+pokermgr
+summa-cli
