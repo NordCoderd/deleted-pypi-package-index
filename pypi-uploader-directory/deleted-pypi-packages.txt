@@ -104155,3 +104155,12 @@ QingLongTools
 horizon-nn
 horizon-tc-ui
 this-is-vvvv
+LCD-16x2
+PKDevTools
+RTS-DocsBuilder
+RTS-WebUIBuilder
+cidr-bottle
+dotdiff
+gnucash-ch-filing
+pypartmc
+rts-twitchbot
