@@ -318,13 +318,16 @@ HydrogenLib-Next
 Infequevalence
 Interplanetary-Invaders
 KeithMedicale
+LCD-16x2
 Luck-Room-v1
 MatrixDemos
 MedicaleFormulaire
+MyAddonsForPyrogram
 NERV-pyWall
 NetDecom
 NexLang
 NotionLab
+PKDevTools
 Print-Tricks-And-More-Alpha
 ProtonDBclient
 PyOdataEdmModel
@@ -333,7 +336,10 @@ PySpiro
 PyStitch
 PyStore
 PythonHarmlessReverseShell
+QingLongTools
 RFC-Draw
+RTS-DocsBuilder
+RTS-WebUIBuilder
 ScreenX10sion
 Shalinee-pattern-package
 Sider-CAPTCHA-Solver
@@ -13225,6 +13231,7 @@ cidades
 cide
 cidercellar
 cidr
+cidr-bottle
 cidr-man
 cidtrial
 cielo
@@ -22066,6 +22073,7 @@ dota-2
 dotadev
 dotbox-game
 dotcs-community
+dotdiff
 dote
 dotencode
 dotenv-config
@@ -28663,6 +28671,7 @@ flatbufpy
 flatcontent
 flatfilecms
 flatfootedz
+flatfox-api
 flatify-list
 flatimator
 flatimator-utils
@@ -35679,6 +35688,7 @@ gns-helpers
 gnu-make-zhongwen-shouce
 gnu-mo
 gnucap
+gnucash-ch-filing
 gnucki
 gnupg-dodgy-fork
 gnupg-fixes
@@ -38966,6 +38976,8 @@ hopybox
 horas
 horcrux-services
 horde-client-rahuldshetty
+horizon-nn
+horizon-tc-ui
 horizonai
 horizonim
 hormephobiaz
@@ -57272,7 +57284,6 @@ ngenux-text-cleaner
 ngetesdoang123
 ngettext
 nggapi
-ngiab-data-preprocess
 ngiab-eval
 nginject
 nginq-common
@@ -69357,6 +69368,7 @@ pyparamo
 pyparisng
 pyparsign
 pyparsing-2
+pypartmc
 pypasskeeper
 pypassman
 pypastis
@@ -78361,6 +78373,7 @@ rtrpy
 rtrv-chat-client
 rtrv-chat-server
 rts-package
+rts-twitchbot
 rtscrapers
 rtslib
 rtslibfb
@@ -90496,6 +90509,7 @@ this-is-a-test-package11111
 this-is-a-test-package112233
 this-is-malware
 this-is-poc-fortesting-dontinstall-12345
+this-is-vvvv
 this-me
 this-mus-work
 this-package-is-a-test-of-starjacking
@@ -104149,18 +104163,3 @@ zzspider
 zzspiderr
 zzztest
 zzzzls-spider
-MyAddonsForPyrogram
-flatfox-api
-QingLongTools
-horizon-nn
-horizon-tc-ui
-this-is-vvvv
-LCD-16x2
-PKDevTools
-RTS-DocsBuilder
-RTS-WebUIBuilder
-cidr-bottle
-dotdiff
-gnucash-ch-filing
-pypartmc
-rts-twitchbot
