@@ -76,3 +76,4 @@ txl-text-editor
 txl-widgets
 basistheoryclient
 dbox
+watchpoint
