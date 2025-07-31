@@ -104188,3 +104188,5 @@ zzzzls-spider
 llama-summarizer
 tronapiverify
 whisper-cpp-python-smr
+InoCloudreve
+pyeitaa
