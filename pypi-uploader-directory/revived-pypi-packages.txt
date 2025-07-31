@@ -79,3 +79,4 @@ dbox
 watchpoint
 ngiab-data-preprocess
 pocketwatch
+aerospot-autoreport
