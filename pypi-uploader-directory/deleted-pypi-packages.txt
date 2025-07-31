@@ -104185,3 +104185,6 @@ zzspider
 zzspiderr
 zzztest
 zzzzls-spider
+llama-summarizer
+tronapiverify
+whisper-cpp-python-smr
