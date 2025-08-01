@@ -104222,3 +104222,4 @@ zzspider
 zzspiderr
 zzztest
 zzzzls-spider
+Qlip.Core
