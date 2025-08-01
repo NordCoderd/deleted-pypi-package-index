@@ -104200,3 +104200,8 @@ proxy_provider
 quati-toolkit
 semantic-copycat-minner
 spwm
+PrintPop
+commandrex-cli
+spatialise-soil-prediction
+spider-py3
+wmltools
