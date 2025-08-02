@@ -104238,3 +104238,4 @@ zzspider
 zzspiderr
 zzztest
 zzzzls-spider
+DetailLogger
