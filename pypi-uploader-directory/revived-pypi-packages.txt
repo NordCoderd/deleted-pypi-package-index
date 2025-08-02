@@ -82,3 +82,4 @@ pocketwatch
 aerospot-autoreport
 requestx
 gc7
+requests-async
