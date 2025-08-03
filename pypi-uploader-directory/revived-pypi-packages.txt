@@ -85,3 +85,5 @@ gc7
 requests-async
 gitex
 poke
+sup
+text-imp
