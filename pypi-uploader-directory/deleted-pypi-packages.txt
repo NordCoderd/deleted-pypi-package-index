@@ -22690,7 +22690,6 @@ dsainone
 dsalgo
 dsalgvc
 dsandal
-dsap
 dsbase
 dsbuilder
 dsc-auth
@@ -37459,7 +37458,6 @@ hacs-autogen
 hacs-crewai
 hacs-fhir
 hacs-langgraph
-hacs-models
 hacs-openai
 hacs-pinecone
 hacs-qdrant
