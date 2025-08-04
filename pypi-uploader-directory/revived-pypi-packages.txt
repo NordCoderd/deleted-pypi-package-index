@@ -87,3 +87,4 @@ gitex
 poke
 sup
 text-imp
+climate-indices
