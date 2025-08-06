@@ -14183,6 +14183,7 @@ code-test-sol
 code-tests
 code-time
 code-time-checker
+code-tools-agent
 code-tracker
 code-wrogn
 code11-logger
@@ -35440,7 +35441,6 @@ gitrcli
 gitrcss
 gitreader
 gitsharp
-gitspyx
 gitssh
 gitssues
 gitsyn
@@ -35818,6 +35818,7 @@ godoo
 godoo-cli
 godot-goo
 godtype
+godx
 godzilla
 godzilla-vs-kong-2021-watch-full-online-free
 goeiedag
@@ -53279,12 +53280,12 @@ min-jq
 min-openssh
 min-rsync
 min-soup
+minRL
 minaconf
 minan-fangfa
 minan-qishilu
 minbing-junshi-xunlian-shouce-1960
 mincepie
-mind-t-gap
 minded
 minder-research-portal-client
 mindfree
@@ -69122,6 +69123,7 @@ pynormalize
 pynoteslib
 pynotionapi
 pynotionclient
+pynotiq-client
 pynq-keithley
 pynqdb
 pynqkeithley
@@ -75123,6 +75125,7 @@ ressimpy
 ressy
 ressys
 rest-api
+rest-api-agr
 rest-api-library
 rest-api-sdk
 rest-celery
@@ -75150,6 +75153,7 @@ rest-fs
 rest-handler
 rest-plugin
 rest-polymorphic
+rest-rest-api-agr-agr
 rest-shizhan
 rest-token-expiry
 rest-tools-pongi
@@ -75481,6 +75485,7 @@ richweedz
 richy
 richyrich
 rickrolldetector
+ricky-s-lib
 ricoh-aficio-c420dn-driver-download
 ricolxwz-hello-pypi
 ricston
@@ -85411,6 +85416,7 @@ sphinx-gemini-builder
 sphinx-json-globaltoc
 sphinx-link-graph
 sphinx-livedocs-theme
+sphinx-llms-txt-jampy
 sphinx-maple-theme
 sphinx-md-kevinputnam
 sphinx-needs-data-explorer
@@ -86843,6 +86849,7 @@ streamlit-fluid-dropdown
 streamlit-gallary
 streamlit-google
 streamlit-graphic-card
+streamlit-image-carousel
 streamlit-keycloak-component
 streamlit-kpi-metrics
 streamlit-mdm-table
@@ -90289,6 +90296,7 @@ tfg666
 tfidfdilekoglu
 tfidfvectorizerinheritencecase
 tfile
+tflite-token-sync
 tflowview
 tfluna-clementnuss
 tfm-api-client
@@ -93333,6 +93341,7 @@ tsatsu-email-lib
 tsatsu-mail-sender
 tsatti
 tsautils
+tsax
 tsbandit
 tsc-devops
 tscai
@@ -100991,6 +101000,7 @@ xvarint
 xvfb
 xviz
 xvr
+xvs
 xwarebin
 xweb3
 xwheel
@@ -104238,15 +104248,3 @@ zzspider
 zzspiderr
 zzztest
 zzzzls-spider
-code-tools-agent
-godx
-minRL
-pynotiq-client
-rest-api-agr
-rest-rest-api-agr-agr
-ricky-s-lib
-sphinx-llms-txt-jampy
-streamlit-image-carousel
-tflite-token-sync
-tsax
-xvs

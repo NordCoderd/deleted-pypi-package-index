@@ -91,3 +91,5 @@ climate-indices
 dsap
 hacs-models
 kain
+gitspyx
+mind-t-gap
