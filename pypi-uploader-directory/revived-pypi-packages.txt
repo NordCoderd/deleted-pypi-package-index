@@ -93,3 +93,5 @@ hacs-models
 kain
 gitspyx
 mind-t-gap
+frappecn-bench
+tenduke-scale

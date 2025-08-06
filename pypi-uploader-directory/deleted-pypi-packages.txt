@@ -29520,7 +29520,6 @@ frank-momo
 frankenfit
 frankerfacez
 franklin-fastapi-extension
-frappecn-bench
 frappefuture
 frappenumpy
 frappepython-dateutil
@@ -88994,7 +88993,6 @@ tencentserverhackedd
 tencentserverhackedd2112
 tencentseverless
 tenda-n301-python-api
-tenduke-scale
 tenebrionz
 tenebrityz
 tenet-2020-full-online-free
