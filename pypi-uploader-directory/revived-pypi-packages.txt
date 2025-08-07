@@ -97,3 +97,4 @@ frappecn-bench
 tenduke-scale
 gravixlayer
 ipfindx
+qass-tools-micromagnetic

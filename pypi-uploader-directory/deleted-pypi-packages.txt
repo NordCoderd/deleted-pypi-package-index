@@ -71982,7 +71982,6 @@ qarparser
 qasdet-chat
 qashi
 qasl
-qass-tools-micromagnetic
 qassabi
 qassertions
 qatalyst
