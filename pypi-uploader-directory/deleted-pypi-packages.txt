@@ -36618,7 +36618,6 @@ graveling
 gravimetric-capacity-calculator
 gravitpy
 gravity-app-weight-download-android
-gravixlayer
 grawler
 grayfruit
 graymath
@@ -42094,7 +42093,6 @@ iperf
 ipex
 ipfabric-netbox
 ipfinder-io
-ipfindx
 ipfs
 ipfs-http-client-sdk
 ipfs-kvs
