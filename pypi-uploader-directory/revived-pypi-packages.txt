@@ -98,3 +98,5 @@ tenduke-scale
 gravixlayer
 ipfindx
 qass-tools-micromagnetic
+pyfino
+tongban-report
