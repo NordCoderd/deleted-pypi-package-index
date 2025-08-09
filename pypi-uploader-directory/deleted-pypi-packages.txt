@@ -104322,3 +104322,12 @@ zzspider
 zzspiderr
 zzztest
 zzzzls-spider
+badfmt
+geosoftdev
+linkcovery
+nukefilewalker
+rkguiv3
+superset-logger
+surquest-appstoreconnect-analyticsreports
+w3shi-h1
+yahia-mcp-client-cli
