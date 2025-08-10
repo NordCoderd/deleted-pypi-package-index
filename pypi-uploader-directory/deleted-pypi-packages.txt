@@ -6929,6 +6929,7 @@ baddependencypackage
 baddo
 baddog
 badegg
+badfmt
 badge-generator
 badgerdoc-storage
 badgeup
@@ -34888,6 +34889,7 @@ geoserver
 geoserver-rest-python
 geoserverrestconfig
 geosmap
+geosoftdev
 geospatial-analysis-cookbook
 geospatial-distribution-map-with-r-and
 geospatial-pkg-demo
@@ -49356,6 +49358,7 @@ link-creator
 link-embed
 link-info
 linkcode
+linkcovery
 linkding-cli
 linkdump
 linked-list-fr
@@ -58644,6 +58647,7 @@ nuggetyz
 nugrid
 nuke-bot
 nukeddit-0x00cl
+nukefilewalker
 nuker
 nuli-qu-wo-yu-23-ge-nuli-gangtian-shenyi-20140418
 nuli-shichang-jianzhao-gongsi-20100417
@@ -75703,6 +75707,7 @@ rk-youtube-downloader
 rkd-snippet-cooperative
 rkdit
 rkguiv2
+rkguiv3
 rki-covid19csv-cases
 rkimages
 rkm
@@ -78944,7 +78949,6 @@ sagace-sdk
 sagarfunc
 sage-auth
 sage-jupyter
-sagebox
 sagejupyter
 sagemaker-chainer
 sagemaker-chainer-container
@@ -87463,6 +87467,7 @@ supersaintlyz
 superseamanz
 superseeker-pipeline
 superset-config-docker
+superset-logger
 superset-utils
 supersimplepackage
 supersound-r
@@ -87549,6 +87554,7 @@ suritoolstest
 suritoolstest1
 surlparse
 surpoosez
+surquest-appstoreconnect-analyticsreports
 surrodocs-collector
 surveilclient
 survery
@@ -97143,6 +97149,7 @@ w3eb
 w3ml
 w3replay
 w3school-python-jiaocheng
+w3shi-h1
 w3socket
 w6libs
 w7-poc
@@ -101150,6 +101157,7 @@ yagalib
 yagls
 yahavi
 yahgrab
+yahia-mcp-client-cli
 yahlium-zonecraft
 yahoo-ads-display-v6
 yahoo-ads-search-v6
@@ -104322,12 +104330,3 @@ zzspider
 zzspiderr
 zzztest
 zzzzls-spider
-badfmt
-geosoftdev
-linkcovery
-nukefilewalker
-rkguiv3
-superset-logger
-surquest-appstoreconnect-analyticsreports
-w3shi-h1
-yahia-mcp-client-cli
