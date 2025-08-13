@@ -45268,7 +45268,6 @@ kardex
 kardfm
 kardiasclean
 kardinal
-karen
 karen-brain
 karen-device
 karen-plugin-listener
