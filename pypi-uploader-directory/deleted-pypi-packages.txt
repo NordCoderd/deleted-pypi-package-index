@@ -104338,3 +104338,16 @@ zzspider
 zzspiderr
 zzztest
 zzzzls-spider
+HowdenLLMManager
+HydrogenLib-Hycore
+HydrogenLib-Hyctypes
+JetTask
+ambt
+cmd-gpt-utils
+const-type
+dh-papi-sdk
+hades-vulnscan
+my-mltools
+unboil-pydantic-sqlalchemy
+yunhu_usdk
+zscaler-api-talkers
