@@ -111,3 +111,5 @@ taizun
 karen
 lu77U-MobileSec
 minibot
+aws-config
+dh-papi-sdk
