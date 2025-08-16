@@ -113,3 +113,6 @@ lu77U-MobileSec
 minibot
 aws-config
 dh-papi-sdk
+etcher
+mug
+pycyto
